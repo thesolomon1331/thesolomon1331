@@ -7,6 +7,9 @@
 - 👯 I’m looking to collaborate on python
 - 💬 Ask me about c,c++,Data structures and algorithms
 - 📫 How to reach me:
-- https://www.hackerrank.com/solomong1331
+-
+
+### connect with me 
+https://www.hackerrank.com/solomong1331
 - solomong1331@gmail.com
 
