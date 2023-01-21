@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Solomon Raju G</h1>
 <h3 align="center">Programmer</h3>
 
-- 🔭 I’m currently working on **projects**
+- 🔭 I’m currently working on **JAVA**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **JS**
 
-- 👯 I’m looking to collaborate on **python**
+- 👯 I’m looking to collaborate on **JAVA**
 
 - 💬 Ask me about **c,c++,Data structures and Algorithms**
 
