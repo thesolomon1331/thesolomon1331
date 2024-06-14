@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Django**
+- 👯 I’m looking to collaborate on **Django, AI/ML,**
 
 - 💬 Ask me about **c,c++,Data structures and Algorithms, Web Appliation Development**
 
